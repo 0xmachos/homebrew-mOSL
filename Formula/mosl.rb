@@ -12,7 +12,6 @@ class Mosl < Formula
   end
 
   test do
-    Lockdown debug
+    "#{bin}/Lockdown" "debug"
   end
 end
-

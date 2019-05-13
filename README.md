@@ -3,7 +3,7 @@ Formula for [0xmachos/mOSL](https://github.com/0xmachos/mOSL/releases/latest) (m
 
 ## Install
 ```
-brew tap 0xmachos/homebrew-mosl
+brew tap 0xmachos/mosl
 brew install mosl
 ```
 
